@@ -1,0 +1,76 @@
+html {
+	
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+.body-wrapper {
+	background-color:black;
+	color:white;
+	height:100%;
+	text-align: center;
+	font-family: "courier"
+}
+
+.body-wrapper .header-wrapper {
+	background-color:grey;
+}
+
+.body-wrapper .body-container {
+	
+}
+
+.body-wrapper .text-message {
+	width:100%;
+	margin:0 auto;
+	padding:0px;
+}
+
+.body-wrapper .text-message h1 {
+	font-size: 34px;
+}
+
+.body-wrapper .text-message h3 {
+	font-size: 24px;
+}
+
+.body-wrapper .text-message p {
+	font-size: 16px;
+}
+
+.body-wrapper .welcome {
+	padding-top:50px;
+	width:80%;	
+}
+
+.body-wrapper .welcome .zz-img-wrapper {
+	background-color:white;
+	width:200px;
+	/*height:200px;*/
+	margin:0 auto;
+	/*line-height:200px;*/
+	border-radius:50px;
+}
+
+.body-wrapper .welcome .zz-img-wrapper .zz-img {
+	vertical-align: top;
+	text-align: center;
+	/*line-height:200px;
+	display:inline-block;*/
+}
+
+.body-wrapper .info {
+	padding-top:50px;
+	width:80%;
+}
+
+.body-wrapper .footer-wrapper {
+	background-color:#333;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+}
